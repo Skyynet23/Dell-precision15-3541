@@ -15,6 +15,10 @@ GPU: Intel UHD 630 + nVidia Quadro P620
 
 
 
+
+
+
+
 What wotks:
 
 
