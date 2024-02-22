@@ -1,11 +1,10 @@
 # macOS Ventura 13.6.4 - Dell Precision 15-3541
 
 
-##
+
 <img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Opencore/blob/main/screenshots/1.png" width="70%" class="aligncenter">
 <img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Opencore/blob/main/screenshots/2.png" width="35%" class="aligncenter">
 <img decoding="async" src="https://github.com/Skyynet23/Dell-precision-15-3541-Opencore/blob/main/screenshots/3.png" width="100%" class="aligncenter">
-##
 
 ## Specs:
 
