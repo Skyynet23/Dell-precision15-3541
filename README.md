@@ -21,7 +21,7 @@
 - Fn Keys (Brightness, Audio, Keyboard backlight)
 - Trackpad with Gestures + TrackPoint
 - Wi-Fi + Bluetooth
-- USB ports (limited support)
+- USB ports (only USB 3.0) USB 2.0 are not supported
 - Audio onboard Input/Output
 - Combo Jack output
 - AirDrop, Handoff, Sidecar & other iService functions
