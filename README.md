@@ -21,6 +21,7 @@
 - Fn Keys (Brightness, Audio, Keyboard backlight)
 - Trackpad with Gestures + TrackPoint
 - Wi-Fi + Bluetooth
+- iServices
 - USB ports work all USB (2.0, 3.0)
 - Audio onboard Input/Output
 - Combo Jack output
